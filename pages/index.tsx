@@ -12,7 +12,7 @@ const Home: NextPage = ({ posts }) => {
 
     <div className="container mx-auto px-10 mb-8">
       <Head>
-        <title>Blog</title>
+        <title>Blog HK</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
